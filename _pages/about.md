@@ -16,8 +16,6 @@ Education
 * **2021 - present**
 
   Master student in Yantai research Institute, Harbin Engineering University
-  
-  Supervisor: [Prof. Jiang XU](https://eexu.home.ece.ust.hk/index.html)
 
 * **2017 - 2021**
 
