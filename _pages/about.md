@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font size = 10>Welcome to lin's website!</font>"
+title: "<font size = 10>Welcome to Jiahao's website!</font>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
