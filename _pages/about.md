@@ -15,13 +15,13 @@ Education
 ======
 * **2021 - present**
 
-  Ph.D. student in Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology
+  Master student in Yantai research Institute, Harbin Engineering University
   
   Supervisor: [Prof. Jiang XU](https://eexu.home.ece.ust.hk/index.html)
 
 * **2017 - 2021**
 
-  Bachelor of Engineer in School of Electronics and Information Engineering, TianGong University
+  Bachelor in School of Electronics and Information Engineering, TianGong University
 
 Education
 ======
